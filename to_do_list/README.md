@@ -1,5 +1,3 @@
-# Task - 2
-
 # To_Do List Application
 
 Get more work done with to-do app. and manage, capture, & edit your tasks at anytime..
